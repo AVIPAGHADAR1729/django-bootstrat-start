@@ -2,7 +2,7 @@
 Simple add app in Django Project Start a Django with Boostrap setup ready Project
 
  Install the package using :
- pip install git+https://github.com/AVIPAGHADAR1729/django-bootstrap-start-app.git
+ pip install git+https://github.com/AVIPAGHADAR1729/django-bootstrat-start.git
  
  After installation:
 =====
